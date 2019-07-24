@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // 可以直接在xml中设置
-//        init(); // java代码添加演示
+        init(); // java代码添加演示
     }
 
     private void init() {
