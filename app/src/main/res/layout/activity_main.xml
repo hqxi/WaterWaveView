@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/view_group"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!--xml中添加演示-->
+    <!--<com.hqxi.waterwaveview.view.WaterWaveView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"/>-->
+
+    <!--以下属性可选择添加-->
+    <!--app:waveIntervalSize="50"-->
+    <!--app:waveStartWidth="30"-->
+    <!--app:waveEndWidth="1"-->
+    <!--app:waveStirstep="3"-->
+    <!--app:waveColor="#FFFF00"-->
+    <!--app:fillWaveSourceShapeRadius="50"-->
+    <!--app:fillAllView="true"-->
+
+
+</LinearLayout>

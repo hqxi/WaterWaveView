@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaterWaveView">
+        <attr name="waveIntervalSize" format="float" />
+        <attr name="waveStartWidth" format="float" />
+        <attr name="waveEndWidth" format="float" />
+        <attr name="waveStirstep" format="float" />
+        <attr name="waveColor" format="color" />
+        <attr name="fillWaveSourceShapeRadius" format="float" />
+        <attr name="fillAllView" format="boolean" />
+    </declare-styleable>
+</resources>
